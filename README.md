@@ -1,4 +1,4 @@
-# React and JSX Introduction
+# React and JSX Introduction (CHECK)
 
 ## Getting Started
 
