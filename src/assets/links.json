@@ -1,14 +1,14 @@
 [
   {
-    "label": "Atlas School",
-    "link": "https://www.atlasschool.com"
+    "label": "React Official Site",
+    "link": "https://reactjs.org"
   },
   {
-    "label": "React",
-    "link": "https://www.react.dev"
+    "label": "MDN Web Docs",
+    "link": "https://developer.mozilla.org"
   },
   {
-    "label": "Netlify",
-    "link": "https://www.netlify.com"
+    "label": "W3Schools",
+    "link": "https://www.w3schools.com"
   }
 ]
